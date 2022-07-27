@@ -337,7 +337,7 @@ echo ']}'
 				<key>script</key>
 				<string># THESE VARIABLES MUST BE SET. SEE THE ONEUPDATER README FOR AN EXPLANATION OF EACH.
 readonly remote_info_plist='https://raw.githubusercontent.com/tru2dagame/alfred-yabai-window-switcher/main/info.plist'
-readonly workflow_url='https://github.com/tru2dagame/alfred-yabai-window-switcher/raw/main/Fuzzy(fzf)%20Window%20Switcher%20via%20Yabai.alfredworkflow'
+readonly workflow_url='https://github.com/tru2dagame/alfred-yabai-window-switcher/raw/main/fzf_window_switcher_via_yabai.alfredworkflow'
 readonly download_type='direct'
 readonly frequency_check='3'
 
